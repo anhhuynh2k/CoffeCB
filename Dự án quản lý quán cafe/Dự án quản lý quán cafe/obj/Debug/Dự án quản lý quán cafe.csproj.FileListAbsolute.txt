@@ -72,7 +72,6 @@ D:\Coffe456\CoffeCB\Dự án quản lý quán cafe\Dự án quản lý quán caf
 D:\Coffe456\CoffeCB\Dự án quản lý quán cafe\Dự án quản lý quán cafe\bin\Newtonsoft.Json.xml
 D:\Coffe456\CoffeCB\Dự án quản lý quán cafe\Dự án quản lý quán cafe\bin\Antlr3.Runtime.pdb
 D:\Coffe456\CoffeCB\Dự án quản lý quán cafe\Dự án quản lý quán cafe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\Coffe456\CoffeCB\Dự án quản lý quán cafe\Dự án quản lý quán cafe\obj\Debug\Dự án quản lý quán cafe.csproj.AssemblyReference.cache
 D:\Coffe456\CoffeCB\Dự án quản lý quán cafe\Dự án quản lý quán cafe\obj\Debug\Dự án quản lý quán cafe.csproj.CoreCompileInputs.cache
 D:\Coffe456\CoffeCB\Dự án quản lý quán cafe\Dự án quản lý quán cafe\obj\Debug\Dự án quản lý quán cafe.csproj.CopyComplete
 D:\Coffe456\CoffeCB\Dự án quản lý quán cafe\Dự án quản lý quán cafe\obj\Debug\Dự án quản lý quán cafe.dll

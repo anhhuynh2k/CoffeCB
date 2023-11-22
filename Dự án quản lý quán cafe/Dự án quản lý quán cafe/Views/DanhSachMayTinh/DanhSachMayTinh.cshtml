@@ -1,0 +1,36 @@
+﻿
+@model List<Dự_án_quản_lý_quán_cafe.Models.MayTinh>
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<section class="section" id="chefs">
+    <div class="container">
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Mã máy </th>
+                    <th>Tên máy </th>
+                    <th>Giá bán</th>
+                    <th>Ngày sản xuất</th>
+                    <th>Hãng sản xuất</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                <tr>
+                    <td> @item.MaMay </td>
+                    <td> @item.TenMay </td>
+                    <td> @item.GiaBan </td>
+                    <td> @item.NgaySanXuat </td>
+                    <td> @item.HangSanXuat </td>
+                </tr>
+                }
+
+            </tbody>
+        </table>
+    </div>
+</section>
